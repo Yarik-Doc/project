@@ -7,7 +7,7 @@
 
 **Системне адміністрування:** віртуальні машини, скрипти, Docker (Ubuntu).
 
-**Апаратні проекти:** Arduino, Home Assistant, медіаплеєр для ТВ.
+**Апаратні проекти:** Arduino, Home Assistant, медіаплеєр для ТВ. Site: [Example](https://hryhoryev.eu/fl/tv2.html)
 
 **Os Meus Projetos Ativos e Ferramentas**
 
@@ -17,4 +17,4 @@
 
 **Administração de sistemas:** máquinas virtuais, scripts, Docker (Ubuntu).
 
-**Projetos de hardware:** Arduino, Home Assistant, media player para TV.
+**Projetos de hardware:** Arduino, Home Assistant, media player para TV. Site: [Example](https://hryhoryev.eu/fl/tv2.html)
