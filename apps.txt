@@ -1,0 +1,16 @@
+Калькулятор:calc.exe
+Блокнот:notepad.exe
+APP___________________:__________
+Keyboard:C:\Apps\Keyboard\Keyboard.exe
+Prog_clock:C:\Apps\Prog_clock\Prog_clock.exe
+MacChanger:C:\Apps\MacChanger\MacChanger.exe
+System________________:_________
+Taskschd:C:\Windows\System32\taskschd.msc
+Links_________________:________
+EqualizerAPO:C:\Apps\TrayLauncher\Editor.exe - Verknüpfung
+VBoxManage.exe:C:\Apps\Links\VBoxManage.exe 
+Portable______________:________
+Port_scan:D:\Portable\port_scan\Advanced_Port_Scanne9.exe
+ProcessExplorerPortable.exe:D:\Portable\ProcessExplorerPortable\ProcessExplorerPortable.exe 
+MahJongSuite:D:\Portable\MahJongSuite\MahJongSuitePortable.exe 
+ShareX:D:\Portable\ShareX\ShareX.exe
